@@ -109,9 +109,9 @@ Complete Arduino sketch available in [`code/Autostrider.ino`](code/Autostrider.i
 - Add **ultrasonic sensor** for obstacle avoidance  
 - Implement **battery voltage monitoring**  
 
----
+----
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
----
+----
