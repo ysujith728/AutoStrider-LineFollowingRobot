@@ -82,7 +82,7 @@ Complete Arduino sketch available in [`code/Autostrider.ino`](code/Autostrider.i
 | **Tinkercad Simulation** | ![Simulation](images/thinkercadcircuit.png) |
 | **Real-World Prototype** | ![Prototype](images/prototype.jpeg) |
 
-🎥 *You can include a short GIF or video link here to showcase it following a line.*
+
 
 ---
 
