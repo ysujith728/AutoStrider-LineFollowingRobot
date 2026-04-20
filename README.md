@@ -79,8 +79,8 @@ Complete Arduino sketch available in [`code/Autostrider.ino`](code/Autostrider.i
 ## 📸 Simulation & Prototype
 | Type | Screenshot |
 |------|-------------|
-| **Tinkercad Simulation** | ![Simulation](images/tinkercad_screenshot.png) |
-| **Real-World Prototype** | ![Prototype](images/real_robot.jpg) |
+| **Tinkercad Simulation** | ![Simulation](images/thinkercadcircuit.png) |
+| **Real-World Prototype** | ![Prototype](images/prototype.jpeg) |
 
 🎥 *You can include a short GIF or video link here to showcase it following a line.*
 
@@ -109,9 +109,9 @@ Complete Arduino sketch available in [`code/Autostrider.ino`](code/Autostrider.i
 - Add **ultrasonic sensor** for obstacle avoidance  
 - Implement **battery voltage monitoring**  
 
-----
+---
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
-----
+---
